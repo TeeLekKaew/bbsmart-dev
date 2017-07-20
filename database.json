@@ -402,7 +402,7 @@
                     "SubstanceTypeList": [{
                             "INX": 3,
                             "ID": "CLOSURE",
-                            "Name": null,
+                            "Name": "EnClosure",
                             "TaskOnSubstanceINX": 1545
                         },
                         {
