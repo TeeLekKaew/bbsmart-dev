@@ -399,7 +399,7 @@
                     "INX": 1,
                     "ID": "WIRE_OVER",
                     "Name": "ลากคร่อม",
-                    "SubStanceList": [{
+                    "SubstanceTypeList": [{
                             "INX": 3,
                             "ID": "CLOSURE",
                             "Name": "EnClosure",
@@ -439,7 +439,7 @@
                     "INX": 4,
                     "ID": "CORE_OP",
                     "Name": "โยก Core",
-                    "SubStanceList": [{
+                    "SubstanceTypeList": [{
                         "INX": 6,
                         "ID": "CORE_SW_BOARD",
                         "Name": "Core switch board",
@@ -464,7 +464,7 @@
                     "INX": 6,
                     "ID": "PLAN_NEXTFIX",
                     "Name": "วางแผนกลับมาแก้ไข",
-                    "SubStanceList": [{
+                    "SubstanceTypeList": [{
                         "INX": 4,
                         "ID": "FL",
                         "Name": "Fiber Loss",
@@ -550,7 +550,7 @@
             "INX": 1,
             "ID": "WIRE_OVER",
             "Name": "ลากคร่อม",
-            "SubStanceList": [{
+            "SubstanceTypeList": [{
                     "INX": 3,
                     "ID": "CLOSURE",
                     "Name": "EnClosure"
@@ -570,7 +570,7 @@
             "INX": 2,
             "ID": "LOOP_SPLICE",
             "Name": "ปลด Loop + Splice",
-            "SubStanceList": [{
+            "SubstanceTypeList": [{
                     "INX": 5,
                     "ID": "LOOP",
                     "Name": "Loop"
@@ -589,7 +589,7 @@
             "INX": 4,
             "ID": "CORE_OP",
             "Name": "โยก Core",
-            "SubStanceList": [{
+            "SubstanceTypeList": [{
                 "INX": 6,
                 "ID": "CORE_SW_BOARD",
                 "Name": "Core switch board"
@@ -598,7 +598,7 @@
             "INX": 6,
             "ID": "PLAN_NEXTFIX",
             "Name": "วางแผนกลับมาแก้ไข",
-            "SubStanceList": [{
+            "SubstanceTypeList": [{
                 "INX": 4,
                 "ID": "FIBER_LOSS",
                 "Name": "Fiber Loss"
