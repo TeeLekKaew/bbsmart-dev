@@ -546,7 +546,7 @@
             "Name": "สัญญา Loss 11"
         }
     ],
-    "SubstanceTypeList": [{
+    "WorkActionList": [{
             "INX": 1,
             "ID": "WIRE_OVER",
             "Name": "ลากคร่อม",
