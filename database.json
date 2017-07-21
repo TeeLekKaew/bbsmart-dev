@@ -287,7 +287,8 @@
                     "ProblemCause": {
                         "INX": "554",
                         "ID": "C4555",
-                        "Name": "Core Crack"
+                        "Name": "Core Crack",
+                        "IsRequireCoProblemCause":"Y"
                     },
                     "CoProblemCause": {
                         "INX": "555554",
@@ -313,7 +314,8 @@
                     "ProblemCause": {
                         "INX": "554",
                         "ID": "C4555",
-                        "Name": "Core Crack 1"
+                        "Name": "Core Crack 1",
+                        "IsRequireCoProblemCause":"Y"
                     },
                     "CoProblemCause": {
                         "INX": "555554",
@@ -339,7 +341,8 @@
                     "ProblemCause": {
                         "INX": "554",
                         "ID": "C4555",
-                        "Name": "Core Crack 1"
+                        "Name": "Core Crack 1",
+                        "IsRequireCoProblemCause":"Y"
                     },
                     "CoProblemCause": {
                         "INX": "555554",
@@ -371,7 +374,8 @@
                 "ProblemCause": {
                     "INX": "554",
                     "ID": "C4555",
-                    "Name": "Core Crack"
+                    "Name": "Core Crack",
+                    "IsRequireCoProblemCause":"Y"
                 },
                 "CoProblemCause": {
                     "INX": "555554",
