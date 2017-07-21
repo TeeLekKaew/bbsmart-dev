@@ -83,7 +83,7 @@
             }
         ]
     },
-    "JobWithFlocInfo": [{
+    "GetJobWithFlocInfo": [{
             "JobINX": 1,
             "FlocList": [{
                     "FlocItemNo": 1,
@@ -140,7 +140,7 @@
                     "Remark": "เส้นทางที 2"
                 }
             ],
-            "id": 1
+            "id": 54
         },
         {
             "id": 2,
