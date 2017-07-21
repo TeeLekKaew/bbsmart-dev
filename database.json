@@ -401,8 +401,8 @@
                     "Name": "ลากคร่อม",
                     "SubstanceTypeList": [{
                             "INX": 3,
-                            "ID": "CLOSURE",
-                            "Name": "EnClosure",
+                            "ID": "CLOSURE1",
+                            "Name": "EnClosure 1",
                             "TaskOnSubstanceINX": 1545
                         },
                         {
@@ -412,8 +412,8 @@
                             "TaskOnSubstanceINX": 1546
                         }, {
                             "INX": 3,
-                            "ID": "CLOSURE",
-                            "Name": "EnClosure",
+                            "ID": "CLOSURE2",
+                            "Name": "EnClosure 2",
                             "TaskOnSubstanceINX": null
                         }
                     ]
@@ -483,67 +483,26 @@
     "ProblemCause": [{
             "INX": "555554",
             "ID": "C457777755",
-            "Name": "กระรอกกัด"
+            "Name": "กระรอกกัด",
+            "IsRequireCoProblemCause":"Y"
         },
         {
             "INX": "554",
             "ID": "C4555",
-            "Name": "Core Crack"
+            "Name": "Core Crack",
+            "IsRequireCoProblemCause":"Y"
         },
         {
             "INX": "1",
             "ID": "1555",
-            "Name": "สัญญา Loss"
+            "Name": "สัญญาณ Loss",
+            "IsRequireCoProblemCause":"N"
         },
         {
             "INX": "2",
             "ID": "1555",
-            "Name": "สัญญา Loss 1"
-        },
-        {
-            "INX": "3",
-            "ID": "1555",
-            "Name": "สัญญา Loss 3"
-        },
-        {
-            "INX": "4",
-            "ID": "1555",
-            "Name": "สัญญา Loss 4"
-        },
-        {
-            "INX": "5",
-            "ID": "1555",
-            "Name": "สัญญา Loss 5"
-        },
-        {
-            "INX": "6",
-            "ID": "1555",
-            "Name": "สัญญา Loss 6"
-        },
-        {
-            "INX": "7",
-            "ID": "1555",
-            "Name": "สัญญา Loss 7"
-        },
-        {
-            "INX": "18",
-            "ID": "1555",
-            "Name": "สัญญา Loss 8"
-        },
-        {
-            "INX": "9",
-            "ID": "1555",
-            "Name": "สัญญา Loss 9"
-        },
-        {
-            "INX": "10",
-            "ID": "1555",
-            "Name": "สัญญา Loss 10"
-        },
-        {
-            "INX": "11",
-            "ID": "1555",
-            "Name": "สัญญา Loss 11"
+            "Name": "สัญญาณ Loss 2",
+            "IsRequireCoProblemCause":"N"
         }
     ],
     "WorkActionList": [{
@@ -552,8 +511,8 @@
             "Name": "ลากคร่อม",
             "SubstanceTypeList": [{
                     "INX": 3,
-                    "ID": "CLOSURE",
-                    "Name": "EnClosure"
+                    "ID": "CLOSURE1",
+                    "Name": "EnClosure 1"
                 },
                 {
                     "INX": 1,
@@ -561,8 +520,8 @@
                     "Name": "Fiber Optic"
                 }, {
                     "INX": 3,
-                    "ID": "CLOSURE",
-                    "Name": "EnClosure"
+                    "ID": "CLOSURE2",
+                    "Name": "EnClosure 2"
                 }
             ]
         },
@@ -572,8 +531,8 @@
             "Name": "ปลด Loop + Splice",
             "SubstanceTypeList": [{
                     "INX": 5,
-                    "ID": "LOOP",
-                    "Name": "Loop"
+                    "ID": "LOOP1",
+                    "Name": "Loop 1"
                 },
                 {
                     "INX": 3,
@@ -581,8 +540,8 @@
                     "Name": "EnClosure"
                 }, {
                     "INX": 5,
-                    "ID": "LOOP",
-                    "Name": "Loop"
+                    "ID": "LOOP2",
+                    "Name": "Loop 2"
                 }
             ]
         }, {
