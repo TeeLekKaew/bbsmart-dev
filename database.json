@@ -8,7 +8,7 @@
                 "MyJobTotal": 0,
                 "EndPoint": "OTM",
                 "EndPointURL": "http://103.40.138.150/BBSmartRc",
-                "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/dtac.png"
+                "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/dtac1.png"
             },
             {
                 "JobTypeCode": "MCM",
@@ -18,7 +18,7 @@
                 "MyJobTotal": 0,
                 "EndPoint": "OTM",
                 "EndPointURL": "http://103.40.138.150/BBSmartRc",
-                "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/dtac.png"
+                "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/dtac1.png"
             },
             {
                 "JobTypeCode": "PCM",
@@ -28,7 +28,7 @@
                 "MyJobTotal": 10,
                 "EndPoint": "JMG",
                 "EndPointURL": "http://103.40.138.150/BBsmartNet/Api2",
-                "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/pea.png"
+                "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/pea1.png"
             },
             {
                 "JobTypeCode": "PCM",
@@ -38,7 +38,7 @@
                 "MyJobTotal": 10,
                 "EndPoint": "JMG",
                 "EndPointURL": "http://103.40.138.150/BBSmartRc",
-                "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/pea.png"
+                "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/pea1.png"
             },
             {
                 "JobTypeCode": "PCM",
@@ -48,7 +48,7 @@
                 "MyJobTotal": 10,
                 "EndPoint": "JMG",
                 "EndPointURL": "http://192.168.43.62/BBSmartNet/Api2",
-                "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/pea.png"
+                "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/pea1.png"
             },
             {
                 "JobTypeCode": "PCM",
@@ -58,7 +58,7 @@
                 "MyJobTotal": 10,
                 "EndPoint": "JMG",
                 "EndPointURL": "http://192.168.1.25/BBSmartNet/Api2",
-                "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/pea.png"
+                "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/pea1.png"
             },
             {
                 "JobTypeCode": "M",
@@ -68,7 +68,7 @@
                 "MyJobTotal": 0,
                 "EndPoint": "OTM",
                 "EndPointURL": "http://103.40.138.150/BBSmart",
-                "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/dtac.png"
+                "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/dtac1.png"
             },
             {
                 "JobTypeCode": "MCM",
@@ -78,7 +78,7 @@
                 "MyJobTotal": 0,
                 "EndPoint": "OTM",
                 "EndPointURL": "http://103.40.138.150/BBSmart",
-                "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/dtac.png"
+                "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/dtac1.png"
             },
             {
                 "JobTypeCode": "PCM",
@@ -88,7 +88,7 @@
                 "MyJobTotal": 10,
                 "EndPoint": "JMG",
                 "EndPointURL": "http://103.40.138.150/BBSmart",
-                "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/pea.png"
+                "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/pea1.png"
             }
         ]
     },
