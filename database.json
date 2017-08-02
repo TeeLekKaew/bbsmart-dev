@@ -27,7 +27,7 @@
                 "NewJobTotal": 0,
                 "MyJobTotal": 10,
                 "EndPoint": "JMG",
-                "EndPointURL": "http://103.40.138.150/BBsmartNet/Api2",
+                "EndPointURL": "http://103.40.138.150/BBsmartNetRc/Api2",
                 "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/pea1.png"
             },
             {
@@ -87,7 +87,7 @@
                 "NewJobTotal": 0,
                 "MyJobTotal": 10,
                 "EndPoint": "JMG",
-                "EndPointURL": "http://103.40.138.150/BBSmart",
+                "EndPointURL": "http://103.40.138.150/BBsmartNet/Api2",
                 "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/pea1.png"
             }
         ]
