@@ -3,7 +3,7 @@
         "Data": [{
                 "JobTypeCode": "M",
                 "JobTypeCodeName": "MTN",
-                "ProjectDesc": "Transmission CM (RC)-1",
+                "ProjectDesc": "Transmission CM (Demo)",
                 "NewJobTotal": 0,
                 "MyJobTotal": 0,
                 "EndPoint": "OTM",
@@ -13,7 +13,7 @@
             {
                 "JobTypeCode": "MCM",
                 "JobTypeCodeName": "MTN",
-                "ProjectDesc": "BTS CM (RC)",
+                "ProjectDesc": "BTS CM (Demo)",
                 "NewJobTotal": 12,
                 "MyJobTotal": 0,
                 "EndPoint": "OTM",
@@ -23,21 +23,11 @@
             {
                 "JobTypeCode": "PCM",
                 "JobTypeCodeName": "MTN",
-                "ProjectDesc": "PEA CM (RC)",
+                "ProjectDesc": "PEA CM (Demo)",
                 "NewJobTotal": 0,
                 "MyJobTotal": 10,
                 "EndPoint": "JMG",
                 "EndPointURL": "http://103.40.138.150/BBsmartNetRc/Api2",
-                "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/pea1.png"
-            },
-            {
-                "JobTypeCode": "PCM",
-                "JobTypeCodeName": "MTN",
-                "ProjectDesc": "PEA CM (DEMO)",
-                "NewJobTotal": 0,
-                "MyJobTotal": 10,
-                "EndPoint": "JMG",
-                "EndPointURL": "http://103.40.138.150/BBSmartRc",
                 "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/pea1.png"
             },
             {
