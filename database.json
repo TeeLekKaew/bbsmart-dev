@@ -8,6 +8,7 @@
                 "MyJobTotal": 0,
                 "EndPoint": "OTM",
                 "EndPointURL": "http://103.40.138.150/BBSmartRc",
+                "EndPointJobManagementURL": "http://103.40.138.150/JobManagementDemo/",
                 "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/dtac1.png"
             },
             {
@@ -18,6 +19,7 @@
                 "MyJobTotal": 0,
                 "EndPoint": "OTM",
                 "EndPointURL": "http://103.40.138.150/BBSmartRc",
+                "EndPointJobManagementURL": "http://103.40.138.150/JobManagementDemo/",
                 "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/dtac1.png"
             },
             {
@@ -28,6 +30,7 @@
                 "MyJobTotal": 10,
                 "EndPoint": "JMG",
                 "EndPointURL": "http://103.40.138.150/BBsmartNetRc/Api2",
+                "EndPointJobManagementURL": "http://103.40.138.150/JobManagementDemo/",
                 "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/pea1.png"
             },
             {
@@ -38,6 +41,7 @@
                 "MyJobTotal": 10,
                 "EndPoint": "JMG",
                 "EndPointURL": "http://192.168.43.62/BBSmartNet/Api2",
+                "EndPointJobManagementURL": "http://103.40.138.150/JobManagementDemo/",
                 "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/pea1.png"
             },
             {
@@ -48,6 +52,7 @@
                 "MyJobTotal": 10,
                 "EndPoint": "JMG",
                 "EndPointURL": "http://192.168.1.25/BBSmartNet/Api2",
+                "EndPointJobManagementURL": "http://103.40.138.150/JobManagementDemo/",
                 "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/pea1.png"
             },
             {
@@ -58,6 +63,7 @@
                 "MyJobTotal": 0,
                 "EndPoint": "OTM",
                 "EndPointURL": "http://103.40.138.150/BBSmart",
+                "EndPointJobManagementURL": "http://103.40.138.150/JobManagement/",
                 "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/dtac1.png"
             },
             {
@@ -68,6 +74,7 @@
                 "MyJobTotal": 0,
                 "EndPoint": "OTM",
                 "EndPointURL": "http://103.40.138.150/BBSmart",
+                "EndPointJobManagementURL": "http://103.40.138.150/JobManagement/",
                 "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/dtac1.png"
             },
             {
@@ -78,6 +85,7 @@
                 "MyJobTotal": 10,
                 "EndPoint": "JMG",
                 "EndPointURL": "http://103.40.138.150/BBsmartNet/Api2",
+                "EndPointJobManagementURL": "http://103.40.138.150/JobManagement/",
                 "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/pea1.png"
             }
         ]
