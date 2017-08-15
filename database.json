@@ -574,5 +574,10 @@
                 "Name": "Fiber Loss"
             }]
         }
+    ],
+    "CaptionTemplateList":[
+        {
+            "Type":"1"
+        }
     ]
 }
