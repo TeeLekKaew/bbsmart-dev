@@ -575,8 +575,8 @@
             }]
         }
     ],
-    "CaptionTemplate": {
-        "CaptionTemplateList": [
+    "FileCaption": {
+        "FileCaptionList": [
             {
                 "Type": "1",
                 "Caption": "ภาพก่อนดำเนินการ"
