@@ -40,7 +40,7 @@
                 "NewJobTotal": 0,
                 "MyJobTotal": 10,
                 "EndPoint": "JMG",
-                "EndPointURL": "http://192.168.43.62/BBSmartNet/Api2",
+                "EndPointURL": "http://192.168.43.89/BBSmartNet/Api2",
                 "EndPointJobManagementURL": "http://103.40.138.150/JobManagementDemo",
                 "Avatar":"http://103.40.138.150/BBSmartRc/FileLink/avatar/pea1.png"
             },
